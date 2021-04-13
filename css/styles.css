@@ -99,11 +99,11 @@
   transition-delay: 0.4s;
 }
 
-/*
 .table-container {
   overflow-x: auto;
 }
 
+/*
 table {
   border-collapse: collapse;
   line-height: 1;
