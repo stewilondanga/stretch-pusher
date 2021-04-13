@@ -168,11 +168,11 @@ html {
   margin: 1em;
 }
 
-/*
-.table-container + .table-container {
+.table-container+.table-container {
   margin-top: 3em;
 }
 
+/*
 [data-type="numeric"],
 [data-type-label="numeric"] {
   text-align: right;
