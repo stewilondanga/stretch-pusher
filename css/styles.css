@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -105,6 +105,85 @@ body {
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  line-height: 1;
+  width: 100%;
+}
+
+th, td {
+  border: solid gainsboro;
+  border-width: thin 0;
+  padding: 0.5em 1em;
+  text-align: left;
+  vertical-align: baseline;
+}
+
+th:first-child,
+td:first-child {
+  padding-left: 0;
+}
+
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+
+thead th {
+  border-top-width: 0;
+  color: dimgray;
+  font-style: italic;
+  font-weight: inherit;
+}
+
+caption {
+  letter-spacing: 0.0625em;
+  text-align: left;
+  text-transform: uppercase;
+  padding: 0.5em 0;
+}
+
+col {
+  width: 1em;
+}
+
+col.stretch {
+  width: auto;
+}
+
+table.push-cells-left tr::after,
+table.push-cells-right tr::before {
+  border: solid gainsboro;
+  border-width: thin 0;
+  content: "";
+  display: table-cell;
+  width: 100%;
+}
+
+table.push-cells-left thead tr::after,
+table.push-cells-right thead tr::before {
+  border-top-width: 0;
+}
+
+html {
+  font-family: "Calibri", sans-serif;
+  margin: 1em;
+}
+
+.table-container + .table-container {
+  margin-top: 3em;
+}
+
+[data-type="numeric"],
+[data-type-label="numeric"] {
+  text-align: right;
+  white-space: nowrap;
 }
 
 #contact h1 {
