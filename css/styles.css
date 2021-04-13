@@ -145,11 +145,11 @@ col {
   width: 1em;
 }
 
-/*
 col.stretch {
   width: auto;
 }
 
+/*
 table.push-cells-left tr::after,
 table.push-cells-right tr::before {
   border: solid gainsboro;
