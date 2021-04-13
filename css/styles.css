@@ -172,13 +172,13 @@ html {
   margin-top: 3em;
 }
 
-/*
 [data-type="numeric"],
 [data-type-label="numeric"] {
   text-align: right;
   white-space: nowrap;
 }
 
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
