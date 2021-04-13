@@ -178,7 +178,6 @@ html {
   white-space: nowrap;
 }
 
-/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
@@ -190,6 +189,7 @@ html {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
