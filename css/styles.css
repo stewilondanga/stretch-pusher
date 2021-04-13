@@ -122,12 +122,12 @@ td:first-child {
   padding-left: 0;
 }
 
-/*
 th:last-child,
 td:last-child {
   padding-right: 0;
 }
 
+/*
 thead th {
   border-top-width: 0;
   color: dimgray;
