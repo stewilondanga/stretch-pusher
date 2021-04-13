@@ -127,7 +127,6 @@ td:last-child {
   padding-right: 0;
 }
 
-/*
 thead th {
   border-top-width: 0;
   color: dimgray;
@@ -135,6 +134,7 @@ thead th {
   font-weight: inherit;
 }
 
+/*
 caption {
   letter-spacing: 0.0625em;
   text-align: left;
