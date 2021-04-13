@@ -109,7 +109,6 @@ table {
   width: 100%;
 }
 
-/*
 th, td {
   border: solid gainsboro;
   border-width: thin 0;
@@ -118,6 +117,7 @@ th, td {
   vertical-align: baseline;
 }
 
+/*
 th:first-child,
 td:first-child {
   padding-left: 0;
