@@ -103,13 +103,13 @@
   overflow-x: auto;
 }
 
-/*
 table {
   border-collapse: collapse;
   line-height: 1;
   width: 100%;
 }
 
+/*
 th, td {
   border: solid gainsboro;
   border-width: thin 0;
