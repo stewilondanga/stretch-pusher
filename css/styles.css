@@ -163,12 +163,12 @@ table.push-cells-right thead tr::before {
   border-top-width: 0;
 }
 
-/*
 html {
   font-family: "Calibri", sans-serif;
   margin: 1em;
 }
 
+/*
 .table-container + .table-container {
   margin-top: 3em;
 }
